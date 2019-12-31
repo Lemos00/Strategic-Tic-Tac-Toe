@@ -8,15 +8,23 @@ To win the game, you have to win the smaller Tic Tac Toe games in the slots of t
 
 # How to play it:
 1 2 3 | 1 2 3 | 1 2 3
+
 4 5 6 | 4 5 6 | 4 5 6
+
 7 8 9 | 7 8 9 | 7 8 9
+
 ----------------------
 1 2 3 | 1 2 3 | 1 2 3
+
 4 5 6 | 4 5 6 | 4 5 6
+
 7 8 9 | 7 8 9 | 7 8 9
+
 ----------------------
 1 2 3 | 1 2 3 | 1 2 3
+
 4 5 6 | 4 5 6 | 4 5 6
+
 7 8 9 | 7 8 9 | 7 8 9
   
 1) Let's say player 1 starts at slot 1 / board 1 in the major game (shown above). If player 1 marks an "X" at position 3 in that game, player 2 will have to make their play in board 3. If player 2, for example, marks an "O" in position 5 in board 3, then player 1 will make his next play in board 5, and so on.
